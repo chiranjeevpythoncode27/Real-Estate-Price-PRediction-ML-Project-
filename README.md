@@ -2,7 +2,7 @@ Machine Learning Project: From Data to Model Deployment
 Overview
 This project is a comprehensive machine learning pipeline that guides you from fetching raw data, through cleaning and preprocessing, to building a predictive model. The end goal is to create a robust, scalable machine learning solution that can be deployed in real-world scenarios.
 
-Project Workflow
+**Project Workflow**
 1. Fetching the Data
 The first step in our pipeline involves acquiring the dataset. We use a variety of data sources, including public APIs, CSV files, and databases, to retrieve the necessary raw data. The data fetched in this step is often noisy, inconsistent, and requires preprocessing before use.
 
